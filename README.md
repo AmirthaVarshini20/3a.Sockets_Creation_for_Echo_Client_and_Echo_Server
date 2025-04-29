@@ -52,7 +52,9 @@ import socket
 
 ## OUPUT
 
+
 ## SERVER
+
 
 ![3A](https://github.com/user-attachments/assets/180a7f48-0e54-44e5-9568-e961f58c83ac)
 
